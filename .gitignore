@@ -1,6 +1,7 @@
 # Malware folder
 malwr/
-
+unpacked/
+unpacked/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
