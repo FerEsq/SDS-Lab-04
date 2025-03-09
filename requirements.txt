@@ -1,6 +1,7 @@
+google-generativeai
 pandas
-pefile
 numpy
+scikit-learn
 matplotlib
 seaborn
-scikit-learn
+python-dotenv
